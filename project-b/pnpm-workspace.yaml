@@ -1,0 +1,7 @@
+storeDir: ../store
+cacheDir: ../cache
+enableGlobalVirtualStore: true
+overrides:
+  nan: 2.26.2
+allowBuilds:
+  node-expat@https://codeload.github.com/xmppo/node-expat/tar.gz/78e559baa908942097330f7967dfbf623ebc2529: true

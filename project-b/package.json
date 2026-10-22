@@ -1,0 +1,7 @@
+{
+  "name": "project-b",
+  "private": true,
+  "dependencies": {
+    "node-expat": "github:xmppo/node-expat#78e559baa908942097330f7967dfbf623ebc2529"
+  }
+}
